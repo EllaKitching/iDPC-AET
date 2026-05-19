@@ -1,0 +1,16 @@
+# Requirements
+# The package version listed is what was utilised in testing.
+# Packages installed via conda-forge.
+
+NumPy==1.26.4
+Hyperspy==2.2.0
+SciPy==1.15.2
+scikit-image==0.25.2
+CuPy==13.6.0
+Numba==0.58.1
+abTEM==1.0.6
+dask==2024.8.0
+ASE==3.23.0
+matplotlib==3.9.1
+ipywidgets==8.1.7
+tk_r_em @ git+https://github.com/Ivanlh20/tk_r_em
