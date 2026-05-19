@@ -17,7 +17,7 @@ More information on iDPC simulations are available in the [idpc-simulations repo
 ## 3) Reconstruction Algorithms:
 **SIRT** - Please note this was only used for reconstructing simulations.   
 **Expectation Maxisimation** - completed in [Inspect3d](https://www.thermofisher.com/uk/en/home/electron-microscopy/products/software-em-3d-vis/inspect-3d-software.html)   
-**RESIRE** - credit: Minh Pham et al., [paper](https://www.nature.com/articles/s41598-023-31124-7), [zenodo](https://zenodo.org/records/7273314)  
+**RESIRE** - credit: Minh Pham et al., [paper](https://www.nature.com/articles/s41598-023-31124-7), [zenodo](https://zenodo.org/records/7273314). Please download their scripts from zenodo if you wish to run RESIRE.   
 
 ## 4) Reconstruction Volume Postprocessing:
 **3D Wiener Filtering** - credit: Chien-Chun Chen et al., [paper](https://doi.org/10.1038/nature12009), [source codes](https://www.physics.ucla.edu/research/imaging/dislocations/)  
