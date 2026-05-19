@@ -5,7 +5,7 @@ This repository contains all the code utilised to generate iDPC-AET reconstructi
 
 The code in this repository is organised into 3 categories.
 
-## 2) Simulation of Tilt Series:
+## 1) Simulation of Tilt Series:
 Simulations of iDPC images were performed in [abTEM](https://github.com/abTEM/abTEM).   
 More information on iDPC simulations are available in the [idpc-simulations repository](https://github.com/EllaKitching/idpc-simulations/tree/main)   
 
