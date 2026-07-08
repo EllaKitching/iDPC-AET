@@ -1,9 +1,9 @@
 # Integrated Differential Phase Constrast Atomic Electron Tomography (iDPC-AET)
 A code repository to accompany the paper "Imaging Of Subsurface Vacancies In Ceria Using Atomic Electron Tomography".
 
-This repository contains all the code utilised to generate iDPC-AET reconstructions. Scripts are provided, alongside links to relevant published AET methods that have been utilised and/or adapted for this pipeline. 
+This repository contains the code utilised to generate iDPC-AET reconstructions. Scripts are provided, alongside links to relevant published AET methods that have been utilised and/or adapted for this pipeline. 
 
-The code in this repository is organised into 3 categories.
+The code and links in this repository are organised into 4 categories.
 
 ## 1) Simulation of Tilt Series:
 Simulations of iDPC images were performed in [abTEM](https://github.com/abTEM/abTEM).   
